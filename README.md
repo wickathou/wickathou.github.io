@@ -1,18 +1,19 @@
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-  - [💻 Getting Started](#getting-started)
+- [� Table of Contents](#-table-of-contents)
+- [📖 Portfolio Micro ](#-portfolio-micro-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
-- [💻 Getting Started](#getting-started)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+  - [👥 Author ](#-author-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 Portfolio Micro <a name="about-project"></a>
 
@@ -23,6 +24,10 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 HTML | CSS | GIT
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://wickathou.github.io/)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
